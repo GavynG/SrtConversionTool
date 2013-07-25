@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1374311662 source:d:\github\srtconversiontool\srtconversiontool\srt2txt.cpp
+	<iostream>
+	<STRING>
+	<fstream>
+	<string.h>
+
